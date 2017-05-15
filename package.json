@@ -1,0 +1,20 @@
+{
+  "name": "ajv-sechma4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welldone-software/ajv-sechma4.git"
+  },
+  "keywords": [],
+  "author": "Dani Kenan <dani@welldone-software.com> (http://welldone-software.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/welldone-software/ajv-sechma4/issues"
+  },
+  "homepage": "https://github.com/welldone-software/ajv-sechma4#readme"
+}
