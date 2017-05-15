@@ -1,5 +1,5 @@
 {
-  "name": "ajv-sechma4",
+  "name": "ajv-schema4",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/welldone-software/ajv-sechma4.git"
+    "url": "git+https://github.com/welldone-software/ajv-schema4.git"
   },
   "keywords": [],
   "author": "Dani Kenan <dani@welldone-software.com> (http://welldone-software.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/welldone-software/ajv-sechma4/issues"
+    "url": "https://github.com/welldone-software/ajv-schema4/issues"
   },
-  "homepage": "https://github.com/welldone-software/ajv-sechma4#readme"
+  "homepage": "https://github.com/welldone-software/ajv-schema4#readme"
 }
